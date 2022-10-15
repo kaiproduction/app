@@ -8,7 +8,7 @@ a {
 
 .button {
     background-color: #212121;
-    border: 2px;
+    border: 4px;
     color: white;
     padding: 20px;
     text-align: center;
@@ -25,5 +25,21 @@ Color: #33468a;
 }
 
 h1{
-background-color: #33468a;
+color: #33468a;
+}
+
+h2{
+color: #33468a;
+}
+
+h3{
+color: #33468a;
+}
+
+h4{
+color: #33468a;
+}
+
+h5{
+color: #33468a;
 }
