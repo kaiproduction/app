@@ -1,6 +1,10 @@
 body {overflow: hidden; background: #212121}
 input {position: absolute; display: none}
 
+a {
+  text-decoration:none;
+}
+
 * {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
